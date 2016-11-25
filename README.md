@@ -2,7 +2,7 @@
 
 para ejecutar el programa:
 
-cc -o Sdes SDES.c
+cc -o sdes SDES.c
 
 #
 ./sdes
